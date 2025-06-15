@@ -23,7 +23,7 @@ We’re the devs who:
 ---
 
 ## 🛠️ Our Tech Stack
-`Swift` • `Python` • `Node.js` • `Next.js` • `C#` • `WPF` • `PostgreSQL` • `Firebase` • `Docker` • `GitHub Actions`  
+`Swift` • `React` • `Python` • `Node.js` • `Next.js` • `C#` • `WPF` • `PostgreSQL` • `Firebase` • `Docker` • `GitHub Actions`  
 …and some *dark magic in between*.
 
 ---
